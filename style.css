@@ -1,0 +1,237 @@
+/* all area and default body section start */
+*{
+
+
+ font-family: 'Roboto', sans-serif;  
+}
+body{
+    margin: 0;
+    
+    font-family: 'Roboto', sans-serif; 
+}
+h1{
+    margin:0;
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+
+section{
+    height: 450px;
+    padding-bottom: 100px;
+}
+/* all area and default body section End */
+
+
+
+
+/* Menu section start */
+.container{
+    width: 100%;
+    height:10px; 
+    color:black;
+    padding-bottom: 50px;
+}
+
+.container ul{
+    float: right;
+    padding:10px;
+    list-style-type: none;
+    margin-right: 200px;
+
+}
+
+.container ul li{
+    cursor: pointer;
+    float: left;
+    padding:10px;
+}
+
+/* Menu section End*/
+
+
+
+
+
+/* Top Banner & About section Start*/
+.blue-highlight{
+    color: #3A97F7;
+}
+
+.half-width h1{
+    margin-top: 100px;
+}
+.half-width p{
+    padding-bottom: 50px;
+}
+.p_h2{
+    margin-top:10px!important;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 465px;
+    height: 465px;
+    margin-top: 40px;
+}
+.top-banner{
+
+    padding-bottom: 100px!important;
+}
+
+.link-button{
+
+    text-decoration: none;
+    background-image: linear-gradient(45deg, Peru, Peru);
+    padding: 15px 35px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+/* Top Banner & About section End*/
+
+
+
+
+
+
+
+/* Latest Work & Well Wisher Section Start*/
+.e_head{
+    padding-left: 70px;
+}
+.box-area{
+    width: 100%;
+    height:650px;
+    background-color: #F8F9FC;
+}
+.b_h1{
+    text-align:center!important;
+    padding-top: 120px;
+    padding-bottom: 50px;
+    letter-spacing: -3px;
+}
+.box-content{
+    float: left;
+    width:370px;
+    height:374px;
+    background-color: white;
+    margin-left: 60px;
+    border-radius: 25px;
+}
+
+.box_img{
+    width: 343px;
+    height: 213px;
+    padding-top: 10px;
+    margin-left: 13px;
+    cursor: pointer;
+}
+
+.s_box_img{
+    width: 343px;
+    height: 213px;
+    padding-top: 10px;
+    margin-left: 13px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.s_head{
+    color: red;
+}
+.p_head{
+    text-align: left;
+    margin-left: 15px;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.p_text{
+    text-align: left;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+/* Latest Work & Well Wisher Section End*/
+
+
+
+
+
+
+/* Footer section Start*/
+.ending{
+    position: relative;
+    width: 100%;
+    height: 550px;
+}
+
+.w_img{
+   padding-top: 150px;
+   padding-left: 200px;
+   margin-left: 24px;
+}
+
+.w_h1{
+    position: absolute;
+    top: 233px;
+    left: 276px;
+    color: white;
+}
+.w_img a{
+    color: white;
+}
+.w_button{
+    position: absolute;
+    top: 44%;
+    left: 67%;
+    float: right;
+    padding: 15px 35px;
+    border-radius: 5px;
+    background-color: red;
+    font-weight: 700;
+    text-decoration: none;
+
+}
+
+.f_p{
+    text-align: center;
+    font-weight: 700;
+}
+
+.f_h3{
+    text-align: center;
+}
+
+.f_icon{
+    margin-left: 600px;
+    padding-bottom: 30px;
+}
+.f_icon1{
+    float: left;
+    padding:5px;
+    cursor: pointer;
+}
+
+.f_icon2{
+    float: left;
+    padding:5px;
+    cursor: pointer;
+}
+
+.f_icon3{
+    float: left;
+    padding:5px;
+    cursor: pointer;
+}
+
+/* Footer section End*/
